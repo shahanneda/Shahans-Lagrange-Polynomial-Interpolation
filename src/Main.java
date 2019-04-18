@@ -7,7 +7,7 @@ import java.awt.event.ActionEvent;
 public class Main {
 
     public static SGraphPanel g;
-
+git
     public static void main(String []args){
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
